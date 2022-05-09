@@ -1,5 +1,21 @@
 {
-    "Chrome@86.0:Windows 10": {
+    "Chrome@85.0:MacOS Catalina": {
+        "build": "TestCafe Demo",
+        "network": true,
+        "visual": true,
+        "resolution": "1024x768"
+    },
+
+
+    "Firefox@78.0:Windows 10": {
+        "build": "TestCafe Demo",
+        "network": true,
+        "visual": true,
+        "resolution": "1024x768"
+    },
+
+
+    "Chrome@86.0:Windows 11": {
         "build": "TestCafe Demo",
         "network": true,
         "visual": true,

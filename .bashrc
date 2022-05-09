@@ -1,4 +1,4 @@
-export LT_USERNAME=projectmihome
-export LT_ACCESS_KEY=dtCBb6H7KIKaE98cUrmioJssVDEfoGx7Zd1YZNhmCYOnCGNfET
+export LT_USERNAME=thegreatbonniee
+export LT_ACCESS_KEY=jdxRYTfAHFbvuKge9yK3Vf8DedrHWSRhPXoGKMsuP1gPNjsfpN
 export LT_CAPABILITY_PATH=config.json
 

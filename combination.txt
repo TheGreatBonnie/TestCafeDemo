@@ -1,4 +1,0 @@
-Using locally installed version of TestCafe.
-ERROR Cannot find the browser. "b" is neither a known browser alias, nor a path to an executable file.
-
-Type "testcafe -h" for help.
